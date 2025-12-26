@@ -15,3 +15,7 @@ Each folder contains an exercise
 - **basic-line-plot/**
   - Line plot visualizing values over time
   - Includes plot titles, axis labels, and saved output
+
+- **multi-plot-customization/**
+  - Two line plots visualizing product sales over time
+  - Includes plot titles, axis labels, saved output, and plot customization
