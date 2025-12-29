@@ -23,3 +23,7 @@ Each folder contains an exercise
 - **customized-labels/**
   - Line plot visualizing student attendance over time
   - Includes customized axis labels, titles, saved output, and plot customization
+ 
+- **bar-chart/**
+  - Bar chart visualizing quantity of employees per department
+  - Includes axis labels, titles, saved output, and plot customization
